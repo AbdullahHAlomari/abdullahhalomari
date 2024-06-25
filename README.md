@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2606017/screenshots/14272063/ezgif.com-gif-maker.gif)]
+[![MasterHead](https://camo.githubusercontent.com/756e6d59c90462f0936715e6bd48da0022a9b81ce2b1f1ac0b8e7d8e7bf7b2e0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36622f63642f66322f36626364663237393962633833303066363638346665396234333263326335622e676966)]
 <h1 align="center">Hi 👋, I'm Abdullah Alomari</h1>
 <h3 align="center">A passionate FullStack Developer from Jeddah!</h3>
 <img
