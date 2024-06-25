@@ -140,27 +140,3 @@ fact **Batman can code too!**
     />
   </a>
 </p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahhalomari&show_icons=true&locale=en&layout=compact"
-    alt="abdullahhalomari"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=abdullahhalomari&show_icons=true&locale=en"
-    alt="abdullahhalomari"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahhalomari&"
-    alt="abdullahhalomari"
-  />
-</p>
