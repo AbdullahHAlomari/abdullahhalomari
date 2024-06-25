@@ -18,8 +18,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Everything** - 💬 Ask me about **nodeJS** - ⚡ Fun
-fact **Batman can code too!**
+- ⚡ I’m currently learning **Everything** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
