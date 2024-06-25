@@ -5,7 +5,7 @@
   align="right"
   alt="Coding"
   width="400"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+  src="https://media.istockphoto.com/id/1448124439/vector/web-development-programming-and-code-testing-ui-concept-with-laptop-displaying-futuristic.jpg?s=612x612&w=0&k=20&c=CXBA4DexowbvWEsyIBbiwc37h15N7fyeSpXUXGQpCpU="
 />
 
 <p align="left">
