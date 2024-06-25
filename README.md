@@ -1,7 +1,6 @@
-github profile markdown generator logo GitHub Profile README Generator Star this
-repo 20409 Fork on GitHub 6251 back to edit copy-markdown download markdown
-download backup preview
-[![Masterhead](https://s3-alpha.figma.com/hub/file/5678700701/edff9344-027f-483a-bda9-833d69f0c4be-cover.png)]
+# GitHub Profile README Generator
+[![Masterhead](https://s3-alpha.figma.com/hub/file/5678700701/edff9344-027f-483a-bda9-833d69f0c4be-cover.png)](https://github.com/abdullahhalomari)
+
 <h1 align="center">Hi 👋, I'm Abdullah Alomari</h1>
 <h3 align="center">A passionate Backend developer from Jeddah!</h3>
 
@@ -177,4 +176,3 @@ ko-fi Donate rahuldkjain via paypal Buy rahuldkjain A CoffeeBuy me a coffee
 github profile markdown generator logo GitHub Profile README Generator Pages
 Addons Support About More Github Releases Issues Pull Requests Join Community
 Discord of the community Developed in India 🇮🇳 Buy Me A Coffee
-
