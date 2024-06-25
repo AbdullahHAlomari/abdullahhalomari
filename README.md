@@ -1,13 +1,11 @@
 [![MasterHead](https://cdn.dribbble.com/users/2606017/screenshots/14272063/ezgif.com-gif-maker.gif)]
-
-
 <h1 align="center">Hi 👋, I'm Abdullah Alomari</h1>
 <h3 align="center">A passionate FullStack Developer from Jeddah!</h3>
 <img
   align="right"
   alt="Coding"
   width="400"
-  src="https://media.istockphoto.com/id/1448124439/vector/web-development-programming-and-code-testing-ui-concept-with-laptop-displaying-futuristic.jpg?s=612x612&w=0&k=20&c=CXBA4DexowbvWEsyIBbiwc37h15N7fyeSpXUXGQpCpU="
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 />
 
 <p align="left">
@@ -16,6 +14,7 @@
     alt="abdullahhalomari"
   />
 </p>
+
 
 - 🌱 I’m currently learning **Everything** - 💬 Ask me about **nodeJS** - ⚡ Fun
 fact **Batman can code too!**
